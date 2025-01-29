@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-I'm Bruno, 18 years old, and I am studying **Systems Analysis and Development** at SENAI, currently in my second semester. I'm passionate about technology and love creating projects that solve real-world problems. I'm focused on expanding my knowledge in full-stack development and improving my skills in backend technologies.
+I'm Bruno, 19 years old, and I am studying **Systems Analysis and Development** at SENAI, currently in my third semester. I'm passionate about technology and love creating projects that solve real-world problems. I'm focused on expanding my knowledge in full-stack development and improving my skills in backend technologies.
 
 ## 🛠 Tech Stack:
 
