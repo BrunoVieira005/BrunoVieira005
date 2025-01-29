@@ -25,7 +25,6 @@ On my profile you can view some of my academic projects where I have used some o
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVieira005&layout=compact&theme=radical)
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=BrunoVieira005&theme=radical&hide_border=true)
   
 </div>
 
