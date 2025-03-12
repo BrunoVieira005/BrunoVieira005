@@ -14,7 +14,7 @@ I'm Bruno, 19 years old, and I am studying **Systems Analysis and Development** 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 
-In my repositories you can view some of my academic projects where I have used the languages mentioned above. 
+In my repositories you can view some of my academic projects where I have used these languages. 
 
 ## 📊 GitHub Stats:
 <div align="center">
