@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
   <img src="https://img.shields.io/badge/SQL-222222?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-181818?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-  <img src="https://img.shields.io/badge/Dart-181818?style=for-the-badge&logo=dart&logoColor=0175C2"/>
 </p>
 
 ---
