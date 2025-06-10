@@ -75,10 +75,16 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoVieira005&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats%20" alt="Bruno's GitHub Stats" />
-<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVieira005&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=BrunoVieira005&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats%20" alt="GitHub Stats" />
+  </a>
+  <br>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVieira005&layout=donut&langs_count=6&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
 </p>
+
+</p>
+
 
 ---
 
