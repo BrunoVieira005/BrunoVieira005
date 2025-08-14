@@ -16,9 +16,10 @@
 
 ### 🧠 Currently Learning
 
-- 📱 **Flutter** (mobile dev)
-- ☕ **Java** (OOP, APIs, design patterns)
-- 🛡️ **Cybersecurity Fundamentals**
+- 🌐 **Django** (Web Development with Python)  
+- 📱 **Flutter** (Mobile Development)  
+- 🛡️ **Cybersecurity Fundamentals**  
+- 📊 **Project Management & Software Architectures** 
 
 ---
 
@@ -39,7 +40,6 @@
   <img src="https://img.shields.io/badge/Firebase-181818?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
   <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
   <img src="https://img.shields.io/badge/SQL-222222?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-181818?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
 </p>
@@ -54,11 +54,26 @@
 - 🎯 **Asset Management System**  
   Fullstack solution using Node.js and MongoDB. Supports QR Codes, login and asset CRUD and tracking with frontend/backend integration.
 
-- 🌾 **Smart Farming App (Simulated)**  
+- 🌾 **GreenTech - Smart Farming App (Simulated)**  
   Mobile app integrated with a simulated sensor API for monitoring crop data. Includes chatbot assistant for farmers. Developed as a university project prototype.
 
 - 📖 **Assassin's Creed Info Hub**  
-  Static website created with friends that showcases the history and evolution of all Assassin’s Creed games.
+  Static website built with friends showcasing the history, evolution, and details of all Assassin’s Creed games.
+
+<p align="center">
+  <a href="https://github.com/BrunoVieira005/App_Paroquia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoVieira005&repo=App_Paroquia&theme=chartreuse-dark&cache_seconds=0">
+  </a>
+  <a href="https://github.com/BrunoVieira005/asset_manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoVieira005&repo=asset_manager&theme=chartreuse-dark&cache_seconds=0">
+  </a>
+  <a href="https://github.com/BrunoVieira005/Projeto_GreenTech">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoVieira005&repo=Projeto_GreenTech&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/BrunoVieira005/AssassinsCreedWebsite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoVieira005&repo=AssassinsCreedWebsite&theme=chartreuse-dark&cache_seconds=0" />
+  </a>
+</p>
 
 ---
 
@@ -85,7 +100,6 @@
 
 </p>
 
-
 ---
 
 ### 🌐 Connect
@@ -99,4 +113,4 @@
   </a>
 </p>
 
----  
+---
