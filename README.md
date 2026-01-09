@@ -8,9 +8,9 @@
 
 ### 🧩 About Me
 
-- 🎓 20 y/o student at **SENAI** – 4th semester of **Systems Analysis and Development**
+- 🎓 20 y/o, **Graduated in Systems Analysis and Development** at **SENAI**
 - 🛠️ Passionate about building projects that solve real-world problems
-- 📍 Always seeking new challenges and knowledge
+- 🚀 Motivated to grow as a professional and take on new challenges
 
 ---
 
