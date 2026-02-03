@@ -1,7 +1,7 @@
 <h1 align="center"> 🤖 Bruno Vieira</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Systems+Development+Student;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Software+Developer+;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,26 +9,25 @@
 ### 🧩 About Me
 
 - 🎓 20 y/o, **Graduated in Systems Analysis and Development** at **SENAI**
+- 🌐 Currently specializing in Blockchain & Web 3.0 through the iRede training program
 - 🛠️ Passionate about building projects that solve real-world problems
-- 🚀 Motivated to grow as a professional and take on new challenges
+- 💬 Fluent in Portuguese and Upper-Intermediate English (B2)
 
 ---
 
 ### 🧠 Currently Learning
 
-- 🌐 **Django** (Web Development with Python)  
-- 📱 **Flutter** (Mobile Development)  
+- ⛓️ **Web 3: Smart Contracts, Blockchain and Metaverse**
 - 🛡️ **Cybersecurity Fundamentals**  
-- 📊 **Project Management & Software Architectures** 
 
 ---
 
 ### 🔍 Interests
 
-- 💻 Web & Mobile Development
+- 🕸️ Web3 Infrastructure
 - 📊 Data Analysis
-- ☁️ Cloud Computing
-- 🔐 Cybersecurity
+- 💻 Backend Development
+- 🔐 Cybersecurity 
 
 ---
 
@@ -62,16 +61,16 @@
 
 <p align="center">
   <a href="https://github.com/BrunoVieira005/App_Paroquia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoVieira005&repo=App_Paroquia&theme=chartreuse-dark&cache_seconds=0">
+    <img src="https://readme-stats-six-kappa.vercel.app/api/pin/?username=BrunoVieira005&repo=App_Paroquia&theme=chartreuse-dark&cache_seconds=0">
   </a>
   <a href="https://github.com/BrunoVieira005/asset_manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoVieira005&repo=asset_manager&theme=chartreuse-dark&cache_seconds=0">
+    <img src="https://readme-stats-six-kappa.vercel.app/api/pin/?username=BrunoVieira005&repo=asset_manager&theme=chartreuse-dark&cache_seconds=0">
   </a>
   <a href="https://github.com/BrunoVieira005/Projeto_GreenTech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoVieira005&repo=Projeto_GreenTech&theme=chartreuse-dark" />
+    <img src="https://readme-stats-six-kappa.vercel.app/api/pin/?username=BrunoVieira005&repo=Projeto_GreenTech&theme=chartreuse-dark" />
   </a>
   <a href="https://github.com/BrunoVieira005/AssassinsCreedWebsite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoVieira005&repo=AssassinsCreedWebsite&theme=chartreuse-dark&cache_seconds=0" />
+    <img src="https://readme-stats-six-kappa.vercel.app/api/pin/?username=BrunoVieira005&repo=AssassinsCreedWebsite&theme=chartreuse-dark&cache_seconds=0" />
   </a>
 </p>
 
@@ -91,11 +90,11 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=BrunoVieira005&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats%20" alt="GitHub Stats" />
+    <img src="https://readme-stats-six-kappa.vercel.app/api?username=BrunoVieira005&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats%20" alt="GitHub Stats" />
   </a>
   <br>
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVieira005&layout=donut&langs_count=6&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-stats-six-kappa.vercel.app/api/top-langs/?username=BrunoVieira005&layout=donut&langs_count=6&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
 </p>
 
 </p>
