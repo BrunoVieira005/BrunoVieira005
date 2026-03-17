@@ -18,15 +18,14 @@
 ### 🧠 Currently Learning
 
 - ⛓️ **Web 3: Smart Contracts, Blockchain and Metaverse**
-- 🛡️ **Cybersecurity Fundamentals**  
+- 🛡️ **Cybersecurity & Networking Fundamentals**  
 
 ---
 
 ### 🔍 Interests
 
 - 🕸️ Web3 Infrastructure
-- 📊 Data Analysis
-- 💻 Backend Development
+- 💻 Systems Development
 - 🔐 Cybersecurity 
 
 ---
@@ -61,16 +60,16 @@
 
 <p align="center">
   <a href="https://github.com/BrunoVieira005/App_Paroquia">
-    <img src="https://readme-stats-six-kappa.vercel.app/api/pin/?username=BrunoVieira005&repo=App_Paroquia&theme=chartreuse-dark&cache_seconds=0">
+    <img src="https://github-readme-stats-nw9l.vercel.app/api/pin/?username=BrunoVieira005&repo=App_Paroquia&theme=chartreuse-dark&cache_seconds=0">
   </a>
   <a href="https://github.com/BrunoVieira005/asset_manager">
-    <img src="https://readme-stats-six-kappa.vercel.app/api/pin/?username=BrunoVieira005&repo=asset_manager&theme=chartreuse-dark&cache_seconds=0">
+    <img src="https://github-readme-stats-nw9l.vercel.app/api/pin/?username=BrunoVieira005&repo=asset_manager&theme=chartreuse-dark&cache_seconds=0">
   </a>
   <a href="https://github.com/BrunoVieira005/Projeto_GreenTech">
-    <img src="https://readme-stats-six-kappa.vercel.app/api/pin/?username=BrunoVieira005&repo=Projeto_GreenTech&theme=chartreuse-dark" />
+    <img src="https://github-readme-stats-nw9l.vercel.app/api/pin/?username=BrunoVieira005&repo=Projeto_GreenTech&theme=chartreuse-dark" />
   </a>
   <a href="https://github.com/BrunoVieira005/AssassinsCreedWebsite">
-    <img src="https://readme-stats-six-kappa.vercel.app/api/pin/?username=BrunoVieira005&repo=AssassinsCreedWebsite&theme=chartreuse-dark&cache_seconds=0" />
+    <img src="https://github-readme-stats-nw9l.vercel.app/api/pin/?username=BrunoVieira005&repo=AssassinsCreedWebsite&theme=chartreuse-dark&cache_seconds=0" />
   </a>
 </p>
 
@@ -90,11 +89,11 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://readme-stats-six-kappa.vercel.app/api?username=BrunoVieira005&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats%20" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-nw9l.vercel.app/api?username=BrunoVieira005&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats%20" alt="GitHub Stats" />
   </a>
   <br>
  <p align="center">
-  <img src="https://readme-stats-six-kappa.vercel.app/api/top-langs/?username=BrunoVieira005&layout=donut&langs_count=6&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-nw9l.vercel.app/api/top-langs/?username=BrunoVieira005&layout=donut&langs_count=6&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
 </p>
 
 </p>
