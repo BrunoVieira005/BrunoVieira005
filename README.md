@@ -9,7 +9,6 @@
 ### 🧩 About Me
 
 - 🎓 20 y/o, **Graduated in Systems Analysis and Development** at **SENAI**
-- 🌐 Currently specializing in Blockchain & Web 3.0 through the iRede training program
 - 🛠️ Passionate about building projects that solve real-world problems
 - 💬 Fluent in Portuguese and Upper-Intermediate English (B2)
 
@@ -17,29 +16,20 @@
 
 ### 🧠 Currently Learning
 
-- ⛓️ **Web 3: Smart Contracts, Blockchain and Metaverse**
-- 🛡️ **Cybersecurity & Networking Fundamentals**  
-
----
-
-### 🔍 Interests
-
-- 🕸️ Web3 Infrastructure
-- 💻 Systems Development
-- 🔐 Cybersecurity 
+- 🚀 **C# & .NET**
+- 🌐 **ASP.NET Core MVC**
+- 🗄️ **SQL Server & EF Core**
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-181818?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/SQL-222222?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-181818?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-0000FF?style=for-the-badge&logo=microsoft-sql-server&logoColor=white%22"/>
+<img src="https://img.shields.io/badge/GIT-6e5494?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ---
@@ -106,7 +96,7 @@
   <a href="mailto:brunorv2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-181818?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/bruno-vieira-4760152b2/" target="_blank">
+  <a href="https://www.linkedin.com/in/bruno-rvieira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
 </p>
