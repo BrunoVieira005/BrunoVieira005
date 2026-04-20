@@ -84,7 +84,7 @@
       <img src="https://github-readme-stats-nw9l.vercel.app/api?username=BrunoVieira005&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" height="180em" alt="GitHub Stats" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats-nw9l.vercel.app/api/top-langs/?username=BrunoVieira005&layout=donut&langs_count=6&theme=midnight-purple&hide_border=true&hide=dart,vue,css,c,html,jupyter%20notebook,cmake,c%2B%2B" height="180em" alt="Top Languages" />
+      <img src="https://github-readme-stats-nw9l.vercel.app/api/top-langs/?username=BrunoVieira005&layout=compact&langs_count=5&theme=midnight-purple&hide_border=true&hide=dart,vue,css,c,html,jupyter%20notebook,cmake,c%2B%2B" height="180em" alt="Top Languages" />
     </td>
   </tr>
 </table>
